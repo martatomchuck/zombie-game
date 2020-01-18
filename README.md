@@ -1,2 +1,2 @@
 # Zombie-game
-Desktop game based on JavaScript and CSS animations
+Simple desktop game based on JavaScript and CSS animations
