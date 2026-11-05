@@ -1,7 +1,7 @@
-# zombie-game
-Simple desktop game - killing approaching zombies by clicking on them.
+#### Zombie Game
 
-Game is based on JavaScript, CSS animations and CSS sprites:
+A simple desktop game in which you kill approaching zombies by clicking on them.
 
-* Using CSS sprite technics to animate zombies' move.
-* Using CSS animation (transform) to animate zombies' walk.
+The game is built using JavaScript, CSS animations, and CSS sprites:
+* CSS sprites are used to animate zombie movement
+* CSS animations are used to create a walking effect
